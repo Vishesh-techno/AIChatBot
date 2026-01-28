@@ -32,6 +32,7 @@ function App() {
     setMessages(prev => [...prev, newUserMessage])
     setIsLoading(true)
 
+    
     try {
       // Call your Spring Boot backend
       const response = await fetch('http://localhost:8080/api/chat/ask', {
