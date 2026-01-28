@@ -9,6 +9,8 @@ This project is a simple AI ChatBot application built using:
 The user types a message in the React UI, which is sent to the Spring Boot backend.  
 The backend calls the Gemini API and returns only the AI response text back to the frontend.
 
+#### Live URL: https://ai-chat-bot-six-omega.vercel.app/
+
 # API Endpoint:
 
 **POST localhost:8080/api/chat/ask**
