@@ -32,10 +32,10 @@ function App() {
     setMessages(prev => [...prev, newUserMessage])
     setIsLoading(true)
 
-    
+
     try {
       // Call your Spring Boot backend
-      const response = await fetch('http://localhost:8080/api/chat/ask', {
+      const response = await fetch('https://aichatbot-916s.onrender.com/api/chat/ask', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
