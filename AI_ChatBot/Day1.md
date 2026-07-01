@@ -11,4 +11,6 @@ Task Completed:
 - Completed Pull Request
 
 Pull request is a request to merge your code changes from one branch to main branch, if the code 
-is working and not a buggy
+is working and not a buggy.
+
+codeowners review the code and pull into the main branch 
