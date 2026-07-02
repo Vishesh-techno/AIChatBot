@@ -7,8 +7,6 @@ function Login({ onLogin }) {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Add your API call here if needed
-
     if (email && password) {
       onLogin();
     }
