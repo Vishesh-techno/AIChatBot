@@ -1,0 +1,106 @@
+[33mcommit 3864e797614e0392f453d0773be9ebb1fbbf15bf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mvisheshQualwebs/Task1[m[33m, [m[1;31morigin/visheshQualwebs/Task1[m[33m)[m
+Author: VisheshQualwebs <sarafvishesh099@gmail.com>
+Date:   Wed Jul 1 16:56:35 2026 +0530
+
+    Added a Login Page
+
+[33mcommit 5f014274e8c6f9850f12fb0de660d811dd09b3d5[m
+Author: VisheshQualwebs <sarafvishesh099@gmail.com>
+Date:   Wed Jul 1 16:38:57 2026 +0530
+
+    Added a Line in Day1 File
+
+[33mcommit 5b34a10c3d7b9573447defcac73eef5c8ddc8fca[m
+Author: VisheshQualwebs <sarafvishesh099@gmail.com>
+Date:   Wed Jul 1 16:30:18 2026 +0530
+
+    Added a pull Request definition in Day1 file
+
+[33mcommit 29dcb3d5fa9cc8fe9b74d1f321487501e6e0238f[m
+Author: VisheshQualwebs <sarafvishesh099@gmail.com>
+Date:   Wed Jul 1 16:08:08 2026 +0530
+
+    Added a Line in Day1 File
+
+[33mcommit 3ae2ad59367e77fa5e0d0de991aafb9459f1660b[m
+Author: VisheshQualwebs <sarafvishesh099@gmail.com>
+Date:   Wed Jul 1 15:53:17 2026 +0530
+
+    Added a file in git Repo name as Day1
+
+[33mcommit b7d17fd78279ce075ec30f6b292858ce81def558[m[33m ([m[1;32mvishesh/task1[m[33m)[m
+Author: VisheshQualwebs <sarafvishesh099@gmail.com>
+Date:   Wed Jul 1 15:41:14 2026 +0530
+
+    Added a line in Readme File
+
+[33mcommit f579f7357c5b1906360e6eaffd496e9acedb1dab[m[33m ([m[1;31morigin/vishesh/task1[m[33m)[m
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jul 1 15:13:55 2026 +0530
+
+    Added a line in Readme File
+
+[33mcommit a60b5b3d6a096ad5b6630feaab56c3adfd80b249[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Vishesh soni <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 16:53:41 2026 +0530
+
+    Update README with live URL
+    
+    Added live URL for the AI chat bot.
+
+[33mcommit 0b6fc6ae7b15dc61b97f6ec83466643f52b28f49[m
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 16:46:07 2026 +0530
+
+    Ai_ChatBot_Frontend
+
+[33mcommit 3b117a13b0ee2f09179e5e5648a9603e724bc3f8[m
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 15:47:21 2026 +0530
+
+    AI_ChatBot_Backend
+
+[33mcommit 146679e41ac7020d561afdbeef7a08ed9f77c7b5[m
+Merge: 2b173be a70dfc8
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 15:44:03 2026 +0530
+
+    Merge branch 'main' of https://github.com/Vishesh-techno/AIChatBot
+
+[33mcommit 2b173bece66af7d87360a9ef169f60ace63bc4e7[m
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 15:43:45 2026 +0530
+
+    AI_ChatBot_Backend
+
+[33mcommit a70dfc8ff69fd02b472a6ace77ddac171958ae7a[m
+Author: Vishesh soni <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 14:58:40 2026 +0530
+
+    Add ReadMe
+    
+    This README provides an overview of the AI ChatBot project, including setup instructions and API details.
+
+[33mcommit 0c11bb9ff8fa2e7535672de3ad1c9ff6cd298e9a[m
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 14:43:04 2026 +0530
+
+    AI_ChatBot Frontend
+
+[33mcommit 234028797c4ec1455be0bcdae1773418231e0eb9[m
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 14:41:38 2026 +0530
+
+    Backend
+
+[33mcommit f37c610e17d5e3289d4e693b7c556d45c332a53c[m
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 14:35:17 2026 +0530
+
+    AI_ChatBot
+
+[33mcommit dc308dd2db7dbfce225c800f6ad2011413b5f8bd[m
+Author: Vishesh-techno <sonivishesh099@gmail.com>
+Date:   Wed Jan 28 14:31:45 2026 +0530
+
+    AI_ChatBot
